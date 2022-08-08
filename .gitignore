@@ -7,3 +7,6 @@ jdbc/out/
 lambda/.idea/
 lambda/out/
 
+*.idea/
+reflect/out/
+
