@@ -10,3 +10,7 @@ lambda/out/
 *.idea/
 reflect/out/
 
+
+mybatis/target/
+
+
